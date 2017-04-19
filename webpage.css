@@ -1,0 +1,179 @@
+h1
+{
+	margin: auto;
+}
+
+body 
+{
+    background-color: 	#F5F5F5;
+    font-size-base;
+    line-height-base;
+    font-family-base;
+    padding-top: 25px; 
+    padding-bottom: 10%
+
+
+}
+
+#jumbotron-2
+{
+  background-color: white;
+  
+}
+
+.jumbotron
+{
+	background-image:url(file:///Users/carlosdelgadillo/Documents/Website/images4website/wild_flowers.jpg);
+	background-attachment: fixed;
+	min-height: 5%;
+	margin-bottom:5px;
+	text-align: center;
+	color: 	#696969;
+	font-family: Helvetica;
+
+}
+
+#about
+{
+  padding-left:  15%;
+  margin-top: 10%;
+  font-weight: bold;
+  font-family: "Lucida Bright", Georgia, serif;
+
+}
+
+#bio
+{
+  color: black;
+  padding-left:15%;
+  padding-right: 5%
+  margin:5%;
+  font-size: 150%;
+  margin-bottom: 30%;
+  font-family: bold;
+  font-family: "Lucida Bright", Georgia, serif;
+
+
+
+}
+
+.about
+{
+	
+
+}
+
+
+.navbar-fixed-left {
+  width: 140px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+}
+
+.navbar-fixed-left .navbar-nav > li {
+  float: none;  /* Cancel default li float: left */
+  width: 139px;
+}
+
+.navbar-fixed-left + .container {
+  padding-left: 160px;
+}
+
+
+.navbar-text > a 
+{
+	color: inherit;
+	text-decoration: none;
+	
+}
+
+#est
+{
+ width: 140px;
+  position: fixed;
+  border-radius: 0;
+  height: 100%;
+}
+
+#icons
+{
+	margin-right: 130px;
+	padding: -25px;
+	float:right;
+}
+
+.photos
+{
+    width:100%;
+    margin:0 auto;
+}
+
+.resume
+{
+   margin-left: 50%;
+
+
+}
+
+#est
+{
+  font-size:small;
+  font-weight: bold;
+}
+
+.tittle
+{
+  font-family: "Arial Black", Arial;
+  font-weight: 900;
+ 
+
+
+}
+
+#phone2
+{
+ padding-left: 20px;
+
+}
+
+.dd
+{
+  background-color: gray;
+}
+
+
+.edx
+{
+margin:15%;
+
+}
+
+
+#dd
+{
+  padding-left: 30px;
+  text-align: center;
+  
+}
+
+.dropdown-menu
+{
+  
+  text-align: center;
+}
+
+
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:80%px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+
+
