@@ -1,2 +1,4 @@
 # PersonalWebsite
 Personal website to display personal projects!
+
+A page created for the purpose of demonstrating my programing projects, as well as some amateur photography. I will use this website as my anchor to illustrate my continuous progress and engage with employers who are willing to review my credentials for opportunities. Most of my personal programming experience has come from C until I decided to learn the basics of HTML, CSS, Bootstrap and JavaScript to allow me and publish this site. In time, I will eventually publish some of the projects that I work on during my spare time; but with this site I hope to demonstrate that my education and fast learning pace can prove to an employer that I am a worthy candidate. The sole purpose of this site is to learn and gain a position where I can further my development as a Programmer.
